@@ -1,0 +1,15 @@
+1. dokumen root adalah direktori utama dimana file-file web disimpan dan diakses oleh server web. ini adalah lokasi dimana server mencari file untuk melayani permintaan dari pengguna.
+2. tidak, dokumen root pada apache web server tidak harus terletak di C:\xampp\htdocs. 
+   Anda dapat mengonfigurasi apache untuk menggunakan direktori lain sebagai dokumen root dengan mengedit file konfigurasi apache.
+3. init: Membuat repository git baru
+   clone: Mengunduh repositori yang ada di lokal
+   remote: Mengelola koneksi ke repositori jarak jauh
+   add: Menambahkan perubahan ke staging area
+   commit: Menyimpan perubahan yang telah ditambahkan
+   push: Mengirim perubahan lokal ke repositori jarak jauh
+   chekout: Berpindah antara cabang atau mengembalikan file ke versi sebelumnya
+4. Github adalah platform berbasis cloud untuk hosting repositori git dan kolaborasi, 
+   sedangkan GitLab adalah platform yang juga menyediakan CI/CD dan manajemen proyek, dengan opsi untuk dihosting sendiri.
+5. Variabel user adalah variabel yang di tetapkan untuk pengguna tertentu, sedangkan variabel system adalah variabel yang berlaku untuk seluruh sistem dan dapat diakses oleh semua pengguna
+6. Persamaan anatar variabel system dan variabel constant adalah keduanya tidak dapat diubah setelah ditetapkan,
+   meskipun variabel system dapat memiliki nilai yang berbeda untuk setiap sesi pengguna, sedangkan variabel constant memiliki nilai tetap di seluruh program.
