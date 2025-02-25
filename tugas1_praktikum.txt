@@ -1,3 +1,15 @@
+SOAL:
+1. Jelaskan apa yang dimaksud dengan dokumen root ?
+2. Pada apache web server, apakah dokumen root harus terletak dalam direktori
+C:\xampp\htdocs ? Jelaskan jawaban anda
+3. Jelaskan apa yang dimaksud dengan perintah git : init, clone, remote, add, commit, push
+dan checkout
+4. Jelaskan perbedaan antara GitHub dan GitLab
+5. Apa bedanya variable user dengan variable system ?
+6. Apa persamaan variable system dengan variable constant ?
+
+
+JAWABAN:
 1. dokumen root adalah direktori utama dimana file-file web disimpan dan diakses oleh server web. ini adalah lokasi dimana server mencari file untuk melayani permintaan dari pengguna.
 2. tidak, dokumen root pada apache web server tidak harus terletak di C:\xampp\htdocs. 
    Anda dapat mengonfigurasi apache untuk menggunakan direktori lain sebagai dokumen root dengan mengedit file konfigurasi apache.
