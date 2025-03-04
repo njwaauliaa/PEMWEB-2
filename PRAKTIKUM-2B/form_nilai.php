@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Form penilaian</title>
+    <title>Form Nilai Siswa</title>
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"> 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -11,7 +11,7 @@
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Form Penilaian</h5>
-        <form method="post" action="./nilai_siswa.php">
+        <form method="post" action="./nilai_mahasiswa.php">
           <div class="form-group row">
             <label for="nama" class="col-4 col-form-label">Nama Lengkap</label> 
             <div class="col-8">
