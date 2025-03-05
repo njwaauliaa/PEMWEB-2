@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     
 </head>
+
 <body>
     <div class="card">
       <div class="card-body">
@@ -29,26 +30,26 @@
             <label for="matkul" class="col-4 col-form-label">Mata Kuliah</label> 
             <div class="col-8">
               <select id="matkul" name="matkul" class="custom-select">
-                <option value="DDP">Dasar-dasar pemprograman</option>
-                <option value="WEB1">Pemweb</option>
-                <option value="INGGRIS">Bahasa inggris</option>
+                <option value="DDP">DASAR-DASAR PEMROGRAMAN</option>
+                <option value="PEMWEB">PEMWEB</option>
+                <option value="BASIS DATA">BASIS DATA</option>
               </select>
             </div>
           </div>
           <div class="form-group row">
-            <label for="nilai_uts" class="col-4 col-form-label">Nilai UTS</label> 
+            <label for="nilai_uts" class="col-4 col-form-label">NILAI UTS</label> 
             <div class="col-8">
               <input id="nilai_uts" name="nilai_uts" type="text" class="form-control">
             </div>
           </div>
           <div class="form-group row">
-            <label for="nilai_uas" class="col-4 col-form-label">Niali UAS</label> 
+            <label for="nilai_uas" class="col-4 col-form-label">NILAI UAS</label> 
             <div class="col-8">
               <input id="nilai_uas" name="nilai_uas" type="text" class="form-control">
             </div>
           </div>
           <div class="form-group row">
-            <label for="tugas_pratikum" class="col-4 col-form-label">Tugas/Pratikum</label> 
+            <label for="tugas_pratikum" class="col-4 col-form-label">Tugas/Praktikum</label> 
             <div class="col-8">
               <input id="tugas_pratikum" name="tugas_pratikum" type="text" class="form-control">
             </div>
